@@ -106,7 +106,7 @@ void Simulator::setCameraVFOV(double vfov) {
 }
 
 bool Simulator::setElevationLimits(double min, double max) {
-    if (min < 0.0 && min > -M_PI/2.0 && max > 0.0 && max < M_PI/2.0) {
+    if (min < 0.0 && min >= -M_PI/2.0 && max > 0.0 && max <= M_PI/2.0) {
         minElevation = min;
         maxElevation = max;
         return true;
