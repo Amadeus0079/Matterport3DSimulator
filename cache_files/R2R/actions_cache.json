@@ -1,0 +1,146 @@
+{
+  "Walk to the other end of the lobby and wait near the exit. ": {
+    "actions": "1. Walk to the other end of the lobby.\n2. Wait near the exit.",
+    "landmarks": "Landmarks: lobby, exit"
+  },
+  "Walk straight toward the bar with the chairs/stool. Turn left and go straight until you get to three tables with chairs. Turn left and wait near the couch. ": {
+    "actions": "1. Walk straight toward the bar with the chairs/stool.\n2. Turn left.\n3. Go straight until you get to three tables with chairs.\n4. Turn left.\n5. Wait near the couch.",
+    "landmarks": "Landmarks: \n1. bar with chairs/stool\n2. three tables with chairs\n3. couch"
+  },
+  "Go forward toward the windows. Go toward the the far couch, Stop next to the couch, in front of the windows. ": {
+    "actions": "The actions in the instruction can be decomposed as follows:\n\n1. Go forward toward the windows.\n2. Go toward the far couch.\n3. Stop next to the couch.\n4. Stop in front of the windows. \n\n(Note: The last action can be considered a clarification rather than a continuation of movement, so it may not constitute a separate action unless specified that it relates to a distinct stop at a different point in relation to the windows.)",
+    "landmarks": "Landmarks: \n1. windows\n2. far couch\n3. couch"
+  },
+  "turn right and go up the stairs and stand at the top. ": {
+    "actions": "1. Turn right\n2. Go up the stairs\n3. Stand at the top",
+    "landmarks": "There are no specific landmarks mentioned in the provided navigation instruction. The instruction describes actions (turning, going up, standing) but does not reference any identifiable locations or landmarks."
+  },
+  "Walk up the stairs and wait at the top. ": {
+    "actions": "1. Walk up the stairs\n2. Wait at the top",
+    "landmarks": "Landmarks: stairs, top"
+  },
+  "Go up the stairs. Stop at the top of the stairs. ": {
+    "actions": "1. Go up the stairs\n2. Stop at the top of the stairs",
+    "landmarks": "Landmarks: stairs"
+  },
+  "Turn, putting the exit of the building  on your left. Walk to the end of the entrance way and turn left. Travel across the kitchen area with the counter and chairs on your right. Continue straight until you reach the dining room. Enter the room and stop and wait one meter from the closest end of the long dining table. ": {
+    "actions": "1. Turn, positioning the exit of the building on your left.\n2. Walk to the end of the entrance way.\n3. Turn left at the end of the entrance way.\n4. Travel across the kitchen area.\n5. Keep the counter and chairs on your right while traveling across the kitchen.\n6. Continue straight until you reach the dining room.\n7. Enter the dining room.\n8. Stop one meter from the closest end of the long dining table.\n9. Wait at that position.",
+    "landmarks": "1. Exit of the building\n2. Entrance way\n3. Kitchen area\n4. Counter\n5. Chairs\n6. Dining room\n7. Long dining table"
+  },
+  "Go down hallway towards the two white vases. When you have a staircase towards your right, turn left towards the dining room. Go past bar lined with chairs and wait in front of the long dining room table. ": {
+    "actions": "1. Go down the hallway towards the two white vases.\n2. Identify the staircase towards your right.\n3. Turn left towards the dining room.\n4. Go past the bar lined with chairs.\n5. Wait in front of the long dining room table.",
+    "landmarks": "Landmarks: \n1. Two white vases\n2. Staircase\n3. Dining room\n4. Bar lined with chairs\n5. Long dining room table"
+  },
+  "Walk past the two urns and turn left. Walk to the entrance of the dining room, straight ahead, and stop under the arch. ": {
+    "actions": "1. Walk past the two urns.\n2. Turn left.\n3. Walk to the entrance of the dining room.\n4. Walk straight ahead.\n5. Stop under the arch.",
+    "landmarks": "Landmarks: urns, entrance of the dining room, arch"
+  },
+  "Walk past the piano to the oval door opening, walk straight ahead to the bathtub, stop right in front of bathtub. ": {
+    "actions": "1. Walk past the piano\n2. Move to the oval door opening\n3. Walk straight ahead to the bathtub\n4. Stop right in front of the bathtub",
+    "landmarks": "Landmarks: piano, oval door opening, bathtub"
+  },
+  "Walk past piano. Walk through arched wooden doors. Wait at bathtub. ": {
+    "actions": "1. Walk past piano.\n2. Walk through arched wooden doors.\n3. Wait at bathtub.",
+    "landmarks": "Landmarks: piano, arched wooden doors, bathtub"
+  },
+  "Turn left and walk across the hallway. Turn left again and walk across this hallway and wait by the bathtub. ": {
+    "actions": "1. Turn left.\n2. Walk across the hallway.\n3. Turn left again.\n4. Walk across this hallway.\n5. Wait by the bathtub.",
+    "landmarks": "Landmarks: hallway, bathtub"
+  },
+  "go straight to the door then turn right. ": {
+    "actions": "1. Go straight to the door\n2. Turn right",
+    "landmarks": "Landmarks: door"
+  },
+  "Walk past the shelves and out of the garage. Stop in front of the opening to the wine cellar. ": {
+    "actions": "1. Walk past the shelves\n2. Walk out of the garage\n3. Stop in front of the opening to the wine cellar",
+    "landmarks": "Landmarks: shelves, garage, wine cellar"
+  },
+  "With the storage lockers to your right, exit the garage via the door that's ahead of you and against the right hand wall. After exiting the garage, turn right ninety degrees and move forward until arched doorway is to your immediate right. ": {
+    "actions": "1. Observe the storage lockers to your right.\n2. Exit the garage.\n3. Approach the door that is ahead of you and against the right-hand wall.\n4. Turn right ninety degrees after exiting the garage.\n5. Move forward until the arched doorway is to your immediate right.",
+    "landmarks": "Landmarks: storage lockers, garage, door (against the right-hand wall), arched doorway"
+  },
+  "Exit the bedroom. Turn left continue down the hallway until you get to the stairs. Wait there. ": {
+    "actions": "1. Exit the bedroom.\n2. Turn left.\n3. Continue down the hallway.\n4. Get to the stairs.\n5. Wait there.",
+    "landmarks": "Landmarks: bedroom, hallway, stairs"
+  },
+  "Walk into the hallway and turn left. Walk to the left of the railing and across the hall past the plant. Stop to the left of the stairs. ": {
+    "actions": "1. Walk into the hallway.\n2. Turn left.\n3. Walk to the left of the railing.\n4. Walk across the hall past the plant.\n5. Stop to the left of the stairs.",
+    "landmarks": "Landmarks: hallway, railing, plant, stairs"
+  },
+  "Exit the room and turn left.  Stop just before you reach the stairs that go up. ": {
+    "actions": "1. Exit the room\n2. Turn left\n3. Stop before reaching the stairs that go up",
+    "landmarks": "Landmarks: room, stairs"
+  },
+  "Turn right and walk towards the refrigerator. Go up the stairs to the left of the refrigerator, past the banister. Turn right, then turn right again. Head up those stairs. ": {
+    "actions": "1. Turn right.\n2. Walk towards the refrigerator.\n3. Go up the stairs to the left of the refrigerator.\n4. Walk past the banister.\n5. Turn right.\n6. Turn right again.\n7. Head up those stairs.",
+    "landmarks": "Landmarks: refrigerator, stairs, banister"
+  },
+  "Make a left and go up the stairs. Walk straight into the hall. Make a left and go up to the third brown step. ": {
+    "actions": "1. Make a left.\n2. Go up the stairs.\n3. Walk straight into the hall.\n4. Make a left.\n5. Go up to the third brown step.",
+    "landmarks": "Landmarks: stairs, hall, third brown step"
+  },
+  "Go straight passing the fridge and up the the small set of stairs. Turn right and go up 3 stairs on the next staircase and wait. ": {
+    "actions": "1. Go straight\n2. Pass the fridge\n3. Go up the small set of stairs\n4. Turn right\n5. Go up 3 stairs on the next staircase\n6. Wait",
+    "landmarks": "Landmarks: fridge, small set of stairs, next staircase"
+  },
+  "Face the walkway with a kitchen counter with bar stools on the right and large windows on the other side and walk past them towards a large dining table  Turn to the sitting area and stop. ": {
+    "actions": "1. Face the walkway.\n2. Observe the kitchen counter with bar stools on the right.\n3. Observe the large windows on the other side.\n4. Walk past the kitchen counter and large windows.\n5. Move towards the large dining table.\n6. Turn to the sitting area.\n7. Stop.",
+    "landmarks": "Landmarks: \n1. Kitchen counter with bar stools\n2. Large windows\n3. Large dining table\n4. Sitting area"
+  },
+  "Walk straight past the kitchen area and bar stools until you reach a formal dining table.  Walk into the room with the sofa on the right and stop by the glass table. ": {
+    "actions": "1. Walk straight past the kitchen area.\n2. Walk straight past the bar stools.\n3. Reach the formal dining table.\n4. Walk into the room with the sofa on the right.\n5. Stop by the glass table.",
+    "landmarks": "Landmarks: kitchen area, bar stools, formal dining table, room with the sofa, glass table."
+  },
+  "Walk through the kitchen, enter the dining room, walk to the doorway to the right of the dining room table, wait at the glass table. ": {
+    "actions": "1. Walk through the kitchen\n2. Enter the dining room\n3. Walk to the doorway to the right of the dining room table\n4. Wait at the glass table",
+    "landmarks": "Landmarks: kitchen, dining room, doorway, dining room table, glass table"
+  },
+  "Turn to your left and enter the sitting room. Once in, turn right and walk past the dining room table. Stop in the doorway on the other side, looking into the kitchen. ": {
+    "actions": "1. Turn to your left\n2. Enter the sitting room\n3. Turn right\n4. Walk past the dining room table\n5. Stop in the doorway on the other side\n6. Look into the kitchen",
+    "landmarks": "Landmarks: sitting room, dining room table, doorway, kitchen"
+  },
+  "Turn right and go straight past the table and chairs. Wait at the kitchen entrance. ": {
+    "actions": "1. Turn right\n2. Go straight\n3. Pass the table\n4. Pass the chairs\n5. Wait at the kitchen entrance",
+    "landmarks": "Landmarks: table, chairs, kitchen entrance"
+  },
+  "Go past pug and chair into next room. Go straight past table and stop at doorway. ": {
+    "actions": "1. Go past pug and chair into next room\n2. Go straight past table\n3. Stop at doorway",
+    "landmarks": "Landmarks: pug, chair, table, doorway"
+  },
+  "Go up all the stairs and stop on the rug at the top. ": {
+    "actions": "1. Go up all the stairs.\n2. Stop on the rug at the top.",
+    "landmarks": "Landmarks: stairs, rug"
+  },
+  "Go up the stairs and stop at the top near the mirror. ": {
+    "actions": "1. Go up the stairs\n2. Stop at the top\n3. Stand near the mirror",
+    "landmarks": "Landmarks: stairs, top, mirror"
+  },
+  "Go up the stairs. At the top of the stairs step on the rug. Stop on the rug close to the window on the right. ": {
+    "actions": "1. Go up the stairs.\n2. Step on the rug at the top of the stairs.\n3. Stop on the rug.\n4. Move close to the window on the right.",
+    "landmarks": "Landmarks: stairs, rug, window"
+  },
+  "Walk out of the closet and into the hallway. Walk through the hallway entrance on the left.Stop just inside the entryway. ": {
+    "actions": "1. Walk out of the closet.\n2. Walk into the hallway.\n3. Walk through the hallway entrance on the left.\n4. Stop just inside the entryway.",
+    "landmarks": "Landmarks: closet, hallway, hallway entrance, entryway"
+  },
+  "Exit the closet into the hall way. Enter the doorway to the nearest left. Enter the bedroom. Wait there. ": {
+    "actions": "1. Exit the closet into the hallway.\n2. Enter the doorway to the nearest left.\n3. Enter the bedroom.\n4. Wait there.",
+    "landmarks": "Landmarks: closet, hallway, doorway, bedroom"
+  },
+  "Turn to your left and exit the room out of the door beside the wooden drawers. Once out of the room walk across the small area and through the next entry way on the left. Stop inside the room before you get to the doors leading outside. ": {
+    "actions": "1. Turn to your left.\n2. Exit the room out of the door.\n3. Walk across the small area.\n4. Go through the next entry way on the left.\n5. Stop inside the room before the doors leading outside.",
+    "landmarks": "Landmarks: room, door, small area, entry way, doors leading outside"
+  },
+  "Turn right and enter through the sliding door. Continue past the TV on the right. Enter the kitchen and wait beside the fridge. ": {
+    "actions": "1. Turn right\n2. Enter through the sliding door\n3. Continue past the TV on the right\n4. Enter the kitchen\n5. Wait beside the fridge",
+    "landmarks": "Landmarks: sliding door, TV, kitchen, fridge"
+  },
+  "Go toward the white table on the patio.  Turn right and go inside through the sliding doors.  Go through the room with television and into the kitchen.  Stop nest to the stove and island in the kitchen. ": {
+    "actions": "1. Go toward the white table on the patio.\n2. Turn right.\n3. Go inside through the sliding doors.\n4. Go through the room with the television.\n5. Go into the kitchen.\n6. Stop next to the stove and island in the kitchen.",
+    "landmarks": "Landmarks: white table, patio, sliding doors, room with the television, kitchen, stove, island"
+  },
+  "Walk toward the white patio table and chairs and go into the house through the glass sliding doors. Pass the grey couches and go into the kitchen. Wait by the toaster. ": {
+    "actions": "1. Walk toward the white patio table and chairs.\n2. Go into the house through the glass sliding doors.\n3. Pass the grey couches.\n4. Go into the kitchen.\n5. Wait by the toaster.",
+    "landmarks": "Landmarks: \n1. white patio table and chairs\n2. house\n3. glass sliding doors\n4. grey couches\n5. kitchen\n6. toaster"
+  }
+}

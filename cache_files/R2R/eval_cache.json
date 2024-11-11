@@ -1,0 +1,290 @@
+{
+  "Walk to the other end of the lobby and wait near the exit. ": {
+    "trajectory_length": 0,
+    "nav_error": 10.857857155187645,
+    "success": 0.0,
+    "oracle_success": 0.0,
+    "spl": 0.0,
+    "time": "First"
+  },
+  "Walk straight toward the bar with the chairs/stool. Turn left and go straight until you get to three tables with chairs. Turn left and wait near the couch. ": {
+    "trajectory_length": 0,
+    "nav_error": 10.857857155187645,
+    "success": 0.0,
+    "oracle_success": 0.0,
+    "spl": 0.0,
+    "time": "First"
+  },
+  "Go forward toward the windows. Go toward the the far couch, Stop next to the couch, in front of the windows. ": {
+    "trajectory_length": 0,
+    "nav_error": 10.857857155187645,
+    "success": 0.0,
+    "oracle_success": 0.0,
+    "spl": 0.0,
+    "time": "First"
+  },
+  "turn right and go up the stairs and stand at the top. ": {
+    "trajectory_length": 0,
+    "nav_error": 9.645321146644456,
+    "success": 0.0,
+    "oracle_success": 0.0,
+    "spl": 0.0,
+    "time": "First"
+  },
+  "Walk up the stairs and wait at the top. ": {
+    "trajectory_length": 9,
+    "nav_error": 1.764446352315649,
+    "success": 1.0,
+    "oracle_success": 1.0,
+    "spl": 0.8930570602684172,
+    "time": "First"
+  },
+  "Go up the stairs. Stop at the top of the stairs. ": {
+    "trajectory_length": 0,
+    "nav_error": 8.037513542415756,
+    "success": 0.0,
+    "oracle_success": 0.0,
+    "spl": 0.0,
+    "time": "First"
+  },
+  "Turn, putting the exit of the building  on your left. Walk to the end of the entrance way and turn left. Travel across the kitchen area with the counter and chairs on your right. Continue straight until you reach the dining room. Enter the room and stop and wait one meter from the closest end of the long dining table. ": {
+    "trajectory_length": 4,
+    "nav_error": 18.33751897926772,
+    "success": 0.0,
+    "oracle_success": 0.0,
+    "spl": 0.0,
+    "time": "First"
+  },
+  "Go down hallway towards the two white vases. When you have a staircase towards your right, turn left towards the dining room. Go past bar lined with chairs and wait in front of the long dining room table. ": {
+    "trajectory_length": 0,
+    "nav_error": 15.926851298118617,
+    "success": 0.0,
+    "oracle_success": 0.0,
+    "spl": 0.0,
+    "time": "First"
+  },
+  "Walk past the two urns and turn left. Walk to the entrance of the dining room, straight ahead, and stop under the arch. ": {
+    "trajectory_length": 13,
+    "nav_error": 10.361558583735006,
+    "success": 0.0,
+    "oracle_success": 0.0,
+    "spl": 0.0,
+    "time": "First"
+  },
+  "Walk past the piano to the oval door opening, walk straight ahead to the bathtub, stop right in front of bathtub. ": {
+    "trajectory_length": 0,
+    "nav_error": 9.417901082874396,
+    "success": 0.0,
+    "oracle_success": 0.0,
+    "spl": 0.0,
+    "time": "First"
+  },
+  "Walk past piano. Walk through arched wooden doors. Wait at bathtub. ": {
+    "trajectory_length": 0,
+    "nav_error": 9.417901082874396,
+    "success": 0.0,
+    "oracle_success": 0.0,
+    "spl": 0.0,
+    "time": "First"
+  },
+  "Turn left and walk across the hallway. Turn left again and walk across this hallway and wait by the bathtub. ": {
+    "trajectory_length": 4,
+    "nav_error": 18.902508234340676,
+    "success": 0.0,
+    "oracle_success": 0.0,
+    "spl": 0.0,
+    "time": "First"
+  },
+  "go straight to the door then turn right. ": {
+    "trajectory_length": 0,
+    "nav_error": 10.662991834131507,
+    "success": 0.0,
+    "oracle_success": 0.0,
+    "spl": 0.0,
+    "time": "First"
+  },
+  "Walk past the shelves and out of the garage. Stop in front of the opening to the wine cellar. ": {
+    "trajectory_length": 4,
+    "nav_error": 13.213575514860292,
+    "success": 0.0,
+    "oracle_success": 0.0,
+    "spl": 0.0,
+    "time": "First"
+  },
+  "With the storage lockers to your right, exit the garage via the door that's ahead of you and against the right hand wall. After exiting the garage, turn right ninety degrees and move forward until arched doorway is to your immediate right. ": {
+    "trajectory_length": 0,
+    "nav_error": 10.662991834131507,
+    "success": 0.0,
+    "oracle_success": 0.0,
+    "spl": 0.0,
+    "time": "First"
+  },
+  "Exit the bedroom. Turn left continue down the hallway until you get to the stairs. Wait there. ": {
+    "trajectory_length": 7,
+    "nav_error": 4.100563345513317,
+    "success": 0.0,
+    "oracle_success": 1.0,
+    "spl": 0.0,
+    "time": "First"
+  },
+  "Walk into the hallway and turn left. Walk to the left of the railing and across the hall past the plant. Stop to the left of the stairs. ": {
+    "trajectory_length": 0,
+    "nav_error": 10.376267476756617,
+    "success": 0.0,
+    "oracle_success": 0.0,
+    "spl": 0.0,
+    "time": "First"
+  },
+  "Exit the room and turn left.  Stop just before you reach the stairs that go up. ": {
+    "trajectory_length": 0,
+    "nav_error": 8.614324742232965,
+    "success": 0.0,
+    "oracle_success": 0.0,
+    "spl": 0.0,
+    "time": "First"
+  },
+  "Turn right and walk towards the refrigerator. Go up the stairs to the left of the refrigerator, past the banister. Turn right, then turn right again. Head up those stairs. ": {
+    "trajectory_length": 0,
+    "nav_error": 9.448267973287138,
+    "success": 0.0,
+    "oracle_success": 0.0,
+    "spl": 0.0,
+    "time": "First"
+  },
+  "Make a left and go up the stairs. Walk straight into the hall. Make a left and go up to the third brown step. ": {
+    "trajectory_length": 0,
+    "nav_error": 9.448267973287138,
+    "success": 0.0,
+    "oracle_success": 0.0,
+    "spl": 0.0,
+    "time": "First"
+  },
+  "Go straight passing the fridge and up the the small set of stairs. Turn right and go up 3 stairs on the next staircase and wait. ": {
+    "trajectory_length": 0,
+    "nav_error": 9.448267973287138,
+    "success": 0.0,
+    "oracle_success": 0.0,
+    "spl": 0.0,
+    "time": "First"
+  },
+  "Face the walkway with a kitchen counter with bar stools on the right and large windows on the other side and walk past them towards a large dining table  Turn to the sitting area and stop. ": {
+    "trajectory_length": 0,
+    "nav_error": 13.488660394933357,
+    "success": 0.0,
+    "oracle_success": 0.0,
+    "spl": 0.0,
+    "time": "First"
+  },
+  "Walk straight past the kitchen area and bar stools until you reach a formal dining table.  Walk into the room with the sofa on the right and stop by the glass table. ": {
+    "trajectory_length": 0,
+    "nav_error": 13.488660394933357,
+    "success": 0.0,
+    "oracle_success": 0.0,
+    "spl": 0.0,
+    "time": "First"
+  },
+  "Walk through the kitchen, enter the dining room, walk to the doorway to the right of the dining room table, wait at the glass table. ": {
+    "trajectory_length": 0,
+    "nav_error": 16.051278865603734,
+    "success": 0.0,
+    "oracle_success": 0.0,
+    "spl": 0.0,
+    "time": "First"
+  },
+  "Turn to your left and enter the sitting room. Once in, turn right and walk past the dining room table. Stop in the doorway on the other side, looking into the kitchen. ": {
+    "trajectory_length": 0,
+    "nav_error": 7.680705080750613,
+    "success": 0.0,
+    "oracle_success": 0.0,
+    "spl": 0.0,
+    "time": "First"
+  },
+  "Turn right and go straight past the table and chairs. Wait at the kitchen entrance. ": {
+    "trajectory_length": 0,
+    "nav_error": 7.680705080750613,
+    "success": 0.0,
+    "oracle_success": 0.0,
+    "spl": 0.0,
+    "time": "First"
+  },
+  "Go past pug and chair into next room. Go straight past table and stop at doorway. ": {
+    "trajectory_length": 0,
+    "nav_error": 9.443623208651484,
+    "success": 0.0,
+    "oracle_success": 0.0,
+    "spl": 0.0,
+    "time": "First"
+  },
+  "Go up all the stairs and stop on the rug at the top. ": {
+    "trajectory_length": 0,
+    "nav_error": 7.654071776534639,
+    "success": 0.0,
+    "oracle_success": 0.0,
+    "spl": 0.0,
+    "time": "First"
+  },
+  "Go up the stairs and stop at the top near the mirror. ": {
+    "trajectory_length": 3,
+    "nav_error": 2.7766727737174928,
+    "success": 1.0,
+    "oracle_success": 1.0,
+    "spl": 1.0,
+    "time": "First"
+  },
+  "Go up the stairs. At the top of the stairs step on the rug. Stop on the rug close to the window on the right. ": {
+    "trajectory_length": 0,
+    "nav_error": 7.654071776534639,
+    "success": 0.0,
+    "oracle_success": 0.0,
+    "spl": 0.0,
+    "time": "First"
+  },
+  "Walk out of the closet and into the hallway. Walk through the hallway entrance on the left.Stop just inside the entryway. ": {
+    "trajectory_length": 8,
+    "nav_error": 3.783997243218193,
+    "success": 0.0,
+    "oracle_success": 1.0,
+    "spl": 0.0,
+    "time": "First"
+  },
+  "Exit the closet into the hall way. Enter the doorway to the nearest left. Enter the bedroom. Wait there. ": {
+    "trajectory_length": 1,
+    "nav_error": 6.535872405168563,
+    "success": 0.0,
+    "oracle_success": 0.0,
+    "spl": 0.0,
+    "time": "First"
+  },
+  "Turn to your left and exit the room out of the door beside the wooden drawers. Once out of the room walk across the small area and through the next entry way on the left. Stop inside the room before you get to the doors leading outside. ": {
+    "trajectory_length": 4,
+    "nav_error": 6.728604392429271,
+    "success": 0.0,
+    "oracle_success": 0.0,
+    "spl": 0.0,
+    "time": "First"
+  },
+  "Turn right and enter through the sliding door. Continue past the TV on the right. Enter the kitchen and wait beside the fridge. ": {
+    "trajectory_length": 8,
+    "nav_error": 10.0641589386674,
+    "success": 0.0,
+    "oracle_success": 0.0,
+    "spl": 0.0,
+    "time": "First"
+  },
+  "Go toward the white table on the patio.  Turn right and go inside through the sliding doors.  Go through the room with television and into the kitchen.  Stop nest to the stove and island in the kitchen. ": {
+    "trajectory_length": 0,
+    "nav_error": 11.151290516112248,
+    "success": 0.0,
+    "oracle_success": 0.0,
+    "spl": 0.0,
+    "time": "First"
+  },
+  "Walk toward the white patio table and chairs and go into the house through the glass sliding doors. Pass the grey couches and go into the kitchen. Wait by the toaster. ": {
+    "trajectory_length": 0,
+    "nav_error": 11.151290516112248,
+    "success": 0.0,
+    "oracle_success": 0.0,
+    "spl": 0.0,
+    "time": "First"
+  }
+}
